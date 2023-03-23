@@ -1,0 +1,26 @@
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    letter-spacing: 3px;
+}
+body{
+    background-color: rgb(202, 255, 127);
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 18px;
+    font-weight: bold;
+}
+img{
+    border:10px yellow solid;
+    box-shadow:  6px 8px 30px yellow;
+    margin-bottom: 15px;
+}
+img:hover{
+    border-radius: 150px;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
